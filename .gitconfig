@@ -1,6 +1,6 @@
 [user]
-	name = gelocraft
-	email = gelocraft@users.noreply.github.com
+	name = thegelomanway
+	email = thegelomanway@users.noreply.github.com
 	signingkey = ~/.ssh/signingkey.pub
 
 [init]
@@ -15,7 +15,7 @@
 
 [delta]
     dark = true
-    syntax-theme = Coldark-Dark
+    syntax-theme = kanagawa
     side-by-side = false
     navigate = true
     line-numbers = true
